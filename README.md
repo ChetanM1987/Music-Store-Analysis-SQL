@@ -1,1 +1,3 @@
 # Music-Store-Analysis-SQL
+This project focuses on analyzing data from a music store database using SQL queries. The objective is to extract meaningful insights and answer business-related questions by querying the database. This analysis is conducted using SQL language to perform various data manipulation, aggregation, and visualization tasks.
+The analysis results include insights into sales performance, customer segmentation, inventory management, and other key metrics relevant to the music store business. The SQL queries generate summary reports, charts, and tables to present the findings effectively.
